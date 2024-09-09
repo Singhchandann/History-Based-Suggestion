@@ -2,7 +2,7 @@ import pymongo
 import time
 from trie import Trie
 
-client = pymongo.MongoClient("mongodb://sidd:siddhesh123@128.140.104.241")
+client = pymongo.MongoClient("mongodb://<your_mongodb_url>")
 db = client["MLS"]
 collection = db["audittrails"]
 
