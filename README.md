@@ -1,15 +1,15 @@
 # History-Based-Suggestion
 MongoDB-Powered History Based Autocomplete System with Gradio: A real-time autocomplete suggestion system using Trie data structure and MongoDB. This project integrates Gradio for the interface, and MongoDB for dynamic data updates, making it suitable for autocompleting search queries with added spelling correction.
 
-#Project Folder Structure
+## Project Folder Structure
 
-📁 gradio-mongodb-autocomplete/
-├── 📁 src/
-│   ├── app.py               # Main script for running Gradio and MongoDB integration
-│   ├── trie.py              # Trie and spelling correction logic
-│   ├── db.py                # MongoDB connection and update logic
-├── 📄 requirements.txt       # Python dependencies
-├── 📄 README.md              # Project description and instructions
+📁 gradio-mongodb-autocomplete/  
+├── 📁 src/  
+│   ├── app.py               # Main script for running Gradio and MongoDB integration  
+│   ├── trie.py              # Trie and spelling correction logic  
+│   ├── db.py                # MongoDB connection and update logic  
+├── 📄 requirements.txt       # Python dependencies  
+├── 📄 README.md              # Project description  and instructions  
 └── 📄 .gitignore             # Files to be ignored by Git
 
 
