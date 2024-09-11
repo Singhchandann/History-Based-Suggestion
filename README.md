@@ -33,7 +33,7 @@ This project demonstrates an autocomplete system using MongoDB, Gradio, and a Tr
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/gradio-mongodb-autocomplete.git
+    git clone https://github.com/Singhchandann/History-Based-Suggestion.git
     ```
 
 2. Navigate to the project directory:
